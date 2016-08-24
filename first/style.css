@@ -1,0 +1,25 @@
+body {
+  background-color: #d8d8d8;
+  height: 100%;
+  width: 100%;
+}
+
+.header-display {
+  height: 150px;
+  width: 100%;
+  background-color: #444444;
+}
+.Text-body {
+  background-color: #efefef;
+  width: 75%;
+  height: 720px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.greyblock {
+    background-color: #444444;
+    width: 75%;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto;
+}

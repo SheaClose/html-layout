@@ -1,0 +1,35 @@
+body {
+  margin: none;
+}
+.left{
+  background-color: #4085de;
+  width: 34%;
+  height: 950px;
+  float:left;
+}
+.center {
+  background-color: #47dfba;
+  width: 33%;
+  height: 950px;
+  float: left;
+}
+.right-top {
+  background-color: #afe57b;
+  width: 33%;
+  height: 750px;
+  float: left;
+}
+.right-bottom {
+  background-color: #c9001a;
+  width: 33%;
+  height: 200px;
+  float: left;
+  color: #f3e8f8;
+  font-family: Helvetica;
+  font-size: 24px;
+  text-align:center;
+  line-height:200px;
+  width:33%;
+  height:200px;
+  font-size:24px;
+}
